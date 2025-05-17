@@ -1,6 +1,3 @@
-# jenkins-remoting-project
-
-
 # Jenkins Remoting Project
 
 This project demonstrates how to set up Jenkins Remoting to connect Jenkins agents (nodes) securely to the Jenkins master. It enables distributed builds, improves scalability, and ensures secure job execution on remote nodes.
