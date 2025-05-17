@@ -1,0 +1,36 @@
+2025-05-17 15:14:05,645 DEBUG - Starting WinSW in console mode
+2025-05-17 15:14:05,673 INFO  - Installing service 'Jenkins Agent (jenkins-agent)'...
+2025-05-17 15:14:05,960 INFO  - Service 'Jenkins Agent (jenkins-agent)' was installed successfully.
+2025-05-17 15:14:06,295 DEBUG - Starting WinSW in console mode
+2025-05-17 15:14:06,326 INFO  - Starting service 'Jenkins Agent (jenkins-agent)'...
+2025-05-17 15:14:06,636 DEBUG - Starting WinSW in service mode
+2025-05-17 15:14:06,662 INFO  - Service 'Jenkins Agent (jenkins-agent)' started successfully.
+2025-05-17 15:14:06,763 INFO  - Starting java -jar agent.jar -jnlpUrl http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp -secret your-secret-here -workDir "C:\Users\SANIYA\OneDrive\Desktop\jenkins"
+2025-05-17 15:14:06,792 INFO  - Started process 9624
+2025-05-17 15:14:06,804 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2025-05-17 15:16:24,856 INFO  - Stopping jenkins-agent
+2025-05-17 15:16:24,856 DEBUG - ProcessKill 9624
+2025-05-17 15:16:24,859 DEBUG - Stopping process 9624...
+2025-05-17 15:16:24,863 DEBUG - Process 9624 canceled with code -1073741510.
+2025-05-17 15:16:24,866 INFO  - Finished jenkins-agent
+2025-05-17 15:16:26,460 DEBUG - Starting WinSW in service mode
+2025-05-17 15:16:26,601 INFO  - Starting java -jar agent.jar -jnlpUrl http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp -secret your-secret-here -workDir "C:\Users\SANIYA\OneDrive\Desktop\jenkins"
+2025-05-17 15:16:26,626 INFO  - Started process 24476
+2025-05-17 15:16:26,637 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2025-05-17 15:16:57,279 INFO  - Stopping jenkins-agent
+2025-05-17 15:16:57,279 DEBUG - ProcessKill 24476
+2025-05-17 15:16:57,283 DEBUG - Stopping process 24476...
+2025-05-17 15:16:57,288 DEBUG - Process 24476 canceled with code -1073741510.
+2025-05-17 15:16:57,291 INFO  - Finished jenkins-agent
+2025-05-17 15:17:00,081 DEBUG - Starting WinSW in service mode
+2025-05-17 15:17:00,204 INFO  - Starting java -jar agent.jar -jnlpUrl http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp -secret your-secret-here -workDir "C:\Users\SANIYA\OneDrive\Desktop\jenkins"
+2025-05-17 15:17:00,230 INFO  - Started process 17224
+2025-05-17 15:17:00,241 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2025-05-17 15:19:42,729 DEBUG - Starting WinSW in console mode
+2025-05-17 15:19:42,758 INFO  - Stopping service 'Jenkins Agent (jenkins-agent)'...
+2025-05-17 15:19:42,764 INFO  - Service 'Jenkins Agent (jenkins-agent)' stopped successfully.
+2025-05-17 15:19:42,765 INFO  - Stopping jenkins-agent
+2025-05-17 15:19:42,766 DEBUG - ProcessKill 17224
+2025-05-17 15:19:42,769 DEBUG - Stopping process 17224...
+2025-05-17 15:19:42,773 DEBUG - Process 17224 canceled with code -1073741510.
+2025-05-17 15:19:42,777 INFO  - Finished jenkins-agent

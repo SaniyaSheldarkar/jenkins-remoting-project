@@ -1,0 +1,253 @@
+WARNING: The "-jnlpUrl" argument is deprecated. Use "-url" and "-name" instead, potentially also passing in "-webSocket", "-tunnel", and/or work directory options as needed.
+May 17, 2025 3:14:07 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using C:\Users\SANIYA\OneDrive\Desktop\jenkins\remoting as a remoting work directory
+May 17, 2025 3:14:07 PM org.jenkinsci.remoting.engine.WorkDirManager setupLogging
+INFO: Both error and output logs will be printed to C:\Users\SANIYA\OneDrive\Desktop\jenkins\remoting
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+WARNING: The "-jnlpUrl" argument is deprecated. Use "-url" and "-name" instead, potentially also passing in "-webSocket", "-tunnel", and/or work directory options as needed.
+May 17, 2025 3:16:26 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using C:\Users\SANIYA\OneDrive\Desktop\jenkins\remoting as a remoting work directory
+May 17, 2025 3:16:26 PM org.jenkinsci.remoting.engine.WorkDirManager setupLogging
+INFO: Both error and output logs will be printed to C:\Users\SANIYA\OneDrive\Desktop\jenkins\remoting
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+WARNING: The "-jnlpUrl" argument is deprecated. Use "-url" and "-name" instead, potentially also passing in "-webSocket", "-tunnel", and/or work directory options as needed.
+May 17, 2025 3:17:00 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using C:\Users\SANIYA\OneDrive\Desktop\jenkins\remoting as a remoting work directory
+May 17, 2025 3:17:00 PM org.jenkinsci.remoting.engine.WorkDirManager setupLogging
+INFO: Both error and output logs will be printed to C:\Users\SANIYA\OneDrive\Desktop\jenkins\remoting
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
+Failed to obtain http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true
+java.io.IOException: Failed to load http://localhost:8080/computer/your-node-name/jenkins-agent.jnlp?encrypt=true: 404 Not Found
+	at hudson.remoting.Launcher.parseJnlpArguments(Launcher.java:766)
+	at hudson.remoting.Launcher.bootstrapInboundAgent(Launcher.java:609)
+	at hudson.remoting.Launcher.run(Launcher.java:493)
+	at hudson.remoting.Launcher.main(Launcher.java:468)
+Waiting 10 seconds before retry
